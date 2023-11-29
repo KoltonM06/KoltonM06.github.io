@@ -1,1 +1,29 @@
-
+p {
+  color: Blue;
+}
+p {
+  font-style: italic;
+}
+ul {
+  color: Green;
+}
+ul {
+  font-style: italic;
+}
+h1 {
+  color: pink;
+}
+h1 {
+  font-weight: bold;
+}
+header {
+  text-transform: uppercase;
+}
+header {
+  font-weight: bold;
+}
+body {
+  font-style: oblique
+}
+body {
+  font
